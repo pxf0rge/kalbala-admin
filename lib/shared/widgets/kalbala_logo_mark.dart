@@ -22,7 +22,7 @@ class KalBalaLogoMark extends StatelessWidget {
       return ClipRRect(
         borderRadius: BorderRadius.circular(size * 0.22),
         child: Image.asset(
-          'assets/branding/app_icon.png',
+          'assets/branding/app_icon.jpg',
           width: size,
           height: size,
           fit: BoxFit.cover,
